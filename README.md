@@ -9,8 +9,14 @@
 
 - 📫 How to reach me **ka2yuki.github.io**
 
+<img src="https://ka2yuki.github.io/img/bmc_qr.png" width="150px" />
 
-[Support me with a coffee!](https://www.buymeacoffee.com/ka2yuki)
+
+<p style="display:flex;align-item:center;">
+  <a href="https://www.buymeacoffee.com/ka2yuki" style="list-style:none;">
+    <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me a Coffee" style="height: 50px; width: 50px;">
+    Support me with a coffee!</a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>

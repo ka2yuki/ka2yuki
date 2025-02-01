@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ka2yuki mori</h1>
+<h1 align="center">Hi, I'm ka2yuki mori</h1>
 <h3 align="center">HTML Coder & Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka2yuki&label=Profile%20views&color=0e75b6&style=flat" alt="ka2yuki" /> </p>
@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **ka2yuki.github.io**
 
-☕[Support me with a coffee!](https://www.buymeacoffee.com/ka2yuki)
+
+[Support me with a coffee!](https://www.buymeacoffee.com/ka2yuki)
 
 
 <h3 align="left">Languages and Tools:</h3>

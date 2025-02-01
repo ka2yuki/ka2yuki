@@ -5,18 +5,16 @@
 
 - 🔭 I’m currently working on finding jobs and friends.
   
-- 🌱 I’m currently learning **html/css/JavaScript with ChatGPT**
+- 🌱 I’m currently learning **html/css/JavaScript**
 
-- 📫 How to reach me <a href="https://ka2yuki.github.io" target="_blank" style="text-decoration:unset !impotant;">**ka2yuki.github.io**</a>
+- 📫 How to reach me <a href="https://www.buymeacoffee.com/ka2yuki" style="list-style:none;">Support me with a coffee! <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me a Coffee" style="width: 30px;"></a>
 
-<img src="https://ka2yuki.github.io/img/bmc_qr.png" width="150px" />
 
+<!-- <a href="https://ka2yuki.github.io" target="_blank" style="text-decoration:unset !impotant;">**ka2yuki.github.io**</a> -->
 
 <p style="display:flex;align-item:center;">
-  <a href="https://www.buymeacoffee.com/ka2yuki" style="list-style:none;">
-    <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me a Coffee" style="height: 50px; width: 50px;">
-    Support me with a coffee!</a>
 </p>
+<img src="https://ka2yuki.github.io/img/bmc_qr.png" width="150px" />
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **html/css/JavaScript with ChatGPT**
 
-- 📫 How to reach me **ka2yuki.github.io**
+- 📫 How to reach me <a href="https://ka2yuki.github.io" target="_blank" style="text-decoration:none;">**ka2yuki.github.io**</a>
 
 <img src="https://ka2yuki.github.io/img/bmc_qr.png" width="150px" />
 

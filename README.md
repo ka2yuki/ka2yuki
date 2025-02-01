@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka2yuki&label=Profile%20views&color=0e75b6&style=flat" alt="ka2yuki" /> </p>
 
-- 🔭 I’m currently working on finding jobs and friends.
-  
 - 🌱 I’m currently learning **html/css/JavaScript**
 
 - 📫 How to reach me <a href="https://www.buymeacoffee.com/ka2yuki" style="list-style:none;">Support me with a coffee! <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me a Coffee" style="width: 30px;"></a>

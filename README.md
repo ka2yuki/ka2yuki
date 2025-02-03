@@ -10,8 +10,6 @@
 <a href="https://www.buymeacoffee.com/ka2yuki" style="list-style:none;">Support me with a coffee! <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me a Coffee" style="width: 30px;"></a>
 
 
-<!-- <a href="https://ka2yuki.github.io" target="_blank" style="text-decoration:unset !impotant;">**ka2yuki.github.io**</a> -->
-
 <p style="display:flex;align-item:center;">
 </p>
 <img src="https://ka2yuki.github.io/img/bmc_qr.png" width="150px" />
@@ -46,4 +44,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ka2yuki&show_icons=true&locale=ja" alt="ka2yuki" /></p>
 
+<!-- herokuapp
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka2yuki&" alt="ka2yuki" /></p>
+-->

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka2yuki&label=Profile%20views&color=0e75b6&style=flat" alt="ka2yuki" /> </p>
 
-- 😇 I’m currently working **html/css/JavaScript**
+- I’m currently working **html/css/JavaScript**
 
 - 📫 How to reach me https://ka2yuki.github.io
   

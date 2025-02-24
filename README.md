@@ -7,13 +7,15 @@
 
 - 📫 How to reach me https://ka2yuki.github.io
   
+<!--
 <a href="https://www.buymeacoffee.com/ka2yuki" style="list-style:none;">Support me with a coffee! <img src="https://media.giphy.com/media/TDQOtnWgsBx99cNoyH/giphy.gif" alt="Buy Me a Coffee" style="width: 30px;"></a>
-
+-->
 
 <p style="display:flex;align-item:center;">
 </p>
+<!--
 <img src="https://ka2yuki.github.io/img/bmc_qr.png" width="150px" />
-
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    

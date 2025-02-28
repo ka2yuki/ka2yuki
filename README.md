@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm ka2yuki mori</h1>
 <h3 align="center">HTML Coder & Frontend Developer</h3>
-now is..
+currently
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka2yuki&label=Profile%20views&color=0e75b6&style=flat" alt="ka2yuki" /> </p>
 
 - I’m currently working **html/css/JavaScript**
